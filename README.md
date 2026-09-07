@@ -1,2 +1,3 @@
 # python-learning
-Learning python in 24 weeks
+I'm learning Python from scratch and documenting my progress here.
+Started September 7, 2026.
